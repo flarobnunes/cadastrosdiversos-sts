@@ -1,4 +1,4 @@
-package com.ffsoftware.cadastrosdiversos.recsources;
+package com.ffsoftware.cadastrosdiversos.resources;
 
 
 import org.springframework.http.ResponseEntity;
